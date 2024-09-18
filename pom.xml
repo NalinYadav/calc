@@ -39,6 +39,9 @@
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Antares05*</sonar.password>
 
+		<sonar.qualitygate.wait>true</sonar.qualitygate.wait> 		
+		<sonar.qualitygate.failOnSonarQubeExitCode>true</sonar.qualitygate.failOnSonarQubeExitCode>
+
 	</properties>
 
 	<build>
