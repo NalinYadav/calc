@@ -2,7 +2,7 @@ package com.example;
 
 public class Calculator {
 
-	//new comment added
+	//new comment added again
 	public double doAdd(double num1, double num2) {
 		return num1 + num2;
 	}
